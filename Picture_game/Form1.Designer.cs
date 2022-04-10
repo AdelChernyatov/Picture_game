@@ -83,6 +83,7 @@
             this.Controls.Add(this.label_Name);
             this.Controls.Add(this.btn_rating);
             this.Controls.Add(this.btn_start);
+            this.MaximumSize = new System.Drawing.Size(522, 329);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
